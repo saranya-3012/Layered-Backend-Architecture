@@ -20,5 +20,3 @@ create table Transaction (
 
 select * from Transaction;
 select * from Wallet;
-drop table Transaction;
-drop table Wallet;
